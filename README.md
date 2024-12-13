@@ -1,22 +1,18 @@
 Merci a Andaroth, a qui jái pu recuperer le projet afin de le transformer en application de gestion de liens. 
-https://github.com/Andaroth/ai-assistant-electron/
-
-
-npm install 
-
-npm run build 
-
-le fichier se trouvera dans le a.out
-
-
 # Application de Gestion de Liens
 
-Bienvenue dans ton application personnalisée pour garder tes liens à portée de main ! Voici comment en profiter pleinement :
+Bienvenue dans votre application personnalisée pour garder vos liens à portée de main ! Voici comment en profiter pleinement :
 
 ## Installation
 
-1. **Copie l'application sur ton ordinateur** :
-   Fais un cp de ce dépôt sur ta machine pour avoir ta propre version.
+1. **Clonez le dépôt** :
+   ```bash
+   git clone https://github.com/Andaroth/ai-assistant-electron/
+   cd ai-assistant-electron
+   npm install
+   npm run build
+   ```
+   Le fichier se trouvera dans `a.out`.
 
 ## Fonctionnalités principales
 
@@ -36,4 +32,4 @@ Une fois votre session enregistrée, vous pourrez vous reconnecter rapidement et
 
 ## Conclusion
 
-Explore les fonctionnalités et personnalise l'application selon tes besoins. Profite pleinement de cet outil pratique, mon pote ! 😎
+Explorez les fonctionnalités et personnalisez l'application selon vos besoins. Profitez pleinement de cet outil pratique ! 😎
