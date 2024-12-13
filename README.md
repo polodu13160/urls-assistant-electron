@@ -5,6 +5,9 @@ Bienvenue dans votre application personnalisée pour garder vos liens à portée
 
 ## Installation
 
+
+!!!!!! Avertissement Mettre sa jourt node 
+
 1. **Clonez le dépôt** :
    ```bash
    git clone https://github.com/Andaroth/ai-assistant-electron/
